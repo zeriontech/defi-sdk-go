@@ -1,7 +1,7 @@
 # defi-sdk-go
 This library is a simple Go wrapper for DeFi SDK.
 
-Visit [docs.zerion.io](docs.zerion.io) for full documentation. 
+Visit [docs.zerion.io](https://docs.zerion.io) for full documentation. 
 
 #  Install 
 ```bash
